@@ -1,4 +1,4 @@
-We included two file,
+We have included two file,
 1. Trained Model: CRL_Best.h5
 2. Validation data processing and label prediction: isi_densenet_validation.py
 
